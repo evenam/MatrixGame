@@ -1,0 +1,7 @@
+# node modules, install them locally
+
+node_modules/
+
+# the distribution, build it yourself
+
+dist/
